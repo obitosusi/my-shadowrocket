@@ -1,6 +1,7 @@
 
 #!name=Obitosusi Locket Custom
-#!desc=Personal safe Locket module
+#!desc=Personal module - safe test
+#!system=ios
 
 [Rule]
 DOMAIN-SUFFIX,example.com,DIRECT
