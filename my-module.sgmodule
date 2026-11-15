@@ -1,0 +1,7 @@
+
+#!name=My Private Module
+#!desc=My personal Shadowrocket module
+#!system=ios
+
+[Rule]
+DOMAIN-SUFFIX,example.com,DIRECT
