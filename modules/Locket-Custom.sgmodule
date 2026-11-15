@@ -1,0 +1,6 @@
+
+#!name=Obitosusi Locket Custom
+#!desc=Personal safe Locket module
+
+[Rule]
+DOMAIN-SUFFIX,example.com,DIRECT
